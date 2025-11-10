@@ -12,18 +12,17 @@ I am committed to continuous learning, sharing knowledge, and delivering high-qu
 ---
 
 ## 🌐 Socials
-- [LinkedIn](https://www.linkedin.com/in/akshatpareek9)
-- [Twitter](https://twitter.com/akshatpareek9) *(optional)*
-- [Portfolio](https://akshatpareek.com) *(optional)*
+- [LinkedIn](https://www.linkedin.com/in/akshat-pareek-78ab86179/)
 
 ---
 
 ## 💻 Tech Stack
 **Languages & Scripting:** C, C++, Java, Python, Shell Script  
 **Frontend & Web:** HTML5, CSS3, JavaScript  
-**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Jenkins, Ansible, Terraform, Apache Airflow  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Tools & OS:** Linux, Postman, Git, GitHub  
+**Cloud & DevOps:** AWS, GCP, OpenStack, Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Terraform
+**Monitoring Tools:** Prometheus, Grafana, Loki, Promtail
+**Databases:** MySQL, PostgreSQL, MongoDB, ODI
+**Tools & OS:** Linux, Postman, Git, GitHub
 
 ---
 
