@@ -19,10 +19,10 @@ I am committed to continuous learning, sharing knowledge, and delivering high-qu
 ## 💻 Tech Stack
 **Languages & Scripting:** C, C++, Java, Python, Shell Script  
 **Frontend & Web:** HTML5, CSS3, JavaScript  
-**Cloud & DevOps:** AWS, GCP, OpenStack, Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Terraform
-**Monitoring Tools:** Prometheus, Grafana, Loki, Promtail
-**Databases:** MySQL, PostgreSQL, MongoDB, ODI
-**Tools & OS:** Linux, Postman, Git, GitHub
+**Cloud & DevOps:** AWS, GCP, OpenStack, Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Terraform  
+**Monitoring Tools:** Prometheus, Grafana, Loki, Promtail  
+**Databases:** MySQL, PostgreSQL, MongoDB, ODI  
+**Tools & OS:** Linux, Postman, Git, GitHub  
 
 ---
 
