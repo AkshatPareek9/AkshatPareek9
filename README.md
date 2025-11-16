@@ -13,7 +13,7 @@ Hello! My name is **Akshat Pareek**, and I am a **Senior DevOps Engineer** with 
 
 I have hands-on experience designing, implementing, and managing CI/CD pipelines, cloud infrastructure, containerization, automation, and monitoring solutions. I am passionate about building scalable, secure, and efficient systems while adopting best practices across DevOps and cloud technologies.  
 
-My expertise spans a wide range of tools and cloud technologies, including **Git, GitHub, AWS, OpenStack, GCP, Jenkins, Kubernetes, Docker, Ansible, Terraform, Prometheus, Grafana, Bash scripting, Linux, Python, SQL, and more**. I have successfully worked on multiple real-world projects that strengthened my skills in automation, deployment, and cloud-native solutions.  
+My expertise spans a wide range of tools and cloud technologies, including **Git, GitHub, AWS, OpenStack, Jenkins, Kubernetes, Docker, Ansible, Terraform, Prometheus, Grafana, Bash scripting, Linux, Python, SQL, and more**. I have successfully worked on multiple real-world projects that strengthened my skills in automation, deployment, and cloud-native solutions.  
 
 I am committed to continuous learning, sharing knowledge, and delivering high-quality solutions that drive business growth and operational excellence.
 
